@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<resources>
+	<texture name="grassTexture" file="Textures/grass.png"/>
+	<texture name="sandTexture" file="Textures/way.png"/>
+	<texture name="towerTexture" file="Textures/tower.png" />
+	<texture name="coinsTexture" file="Textures/coins.png" />
+	<texture name="clockTexture" file="Textures/clock.png" />
+	<texture name="heartTexture" file="Textures/heart.png" />
+
+	<texture name="fireTower" file="Textures/Towers/fire.png" />
+	<texture name="fireTowerPreview" file="Textures/Towers/firePreview.png" />
+
+	<texture name="iceTower" file="Textures/Towers/ice.png" />
+	<texture name="iceTowerPreview" file="Textures/Towers/icePreview.png" />
+
+	<texture name="stoneTower" file="Textures/Towers/stone.png" />
+	<texture name="stoneTowerPreview" file="Textures/Towers/stonePreview.png" />
+
+	<texture name="magicTower" file="Textures/Towers/magic.png" />
+	<texture name="magicTowerPreview" file="Textures/Towers/magicPreview.png" />
+
+	<sprite name="DogondoYellow" base_angle="0">
+		<image file="Sprites/Enemies/DogondoYellow/dogondo1.png" />
+		<image file="Sprites/Enemies/DogondoYellow/dogondo2.png" />
+		<image file="Sprites/Enemies/DogondoYellow/dogondo3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+
+	<sprite name="DogondoGreen" base_angle="0">
+		<image file="Sprites/Enemies/DogondoGreen/dogondo1.png" />
+		<image file="Sprites/Enemies/DogondoGreen/dogondo2.png" />
+		<image file="Sprites/Enemies/DogondoGreen/dogondo3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+
+	<sprite name="DogondoBlue" base_angle="0">
+		<image file="Sprites/Enemies/DogondoBlue/dogondo1.png" />
+		<image file="Sprites/Enemies/DogondoBlue/dogondo2.png" />
+		<image file="Sprites/Enemies/DogondoBlue/dogondo3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+
+	<sprite name="DogondoRed" base_angle="0">
+		<image file="Sprites/Enemies/DogondoRed/dogondo1.png" />
+		<image file="Sprites/Enemies/DogondoRed/dogondo2.png" />
+		<image file="Sprites/Enemies/DogondoRed/dogondo3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+
+	<sprite name="DogondoBoss" base_angle="0">
+		<image file="Sprites/Enemies/DogondoBoss/dogondo1.png" />
+		<image file="Sprites/Enemies/DogondoBoss/dogondo2.png" />
+		<image file="Sprites/Enemies/DogondoBoss/dogondo3.png" />
+		<translation origin="center"/>
+		<rotation origin="center"/>
+		<animation pingpong="no" speed="100"/>
+	</sprite>
+</resources>
